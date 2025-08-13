@@ -1,4 +1,4 @@
-# Configuración del entorno de desarrollo para Laboratorio 3
+# Configuración del entorno de desarrollo
 
 Vamos a comentar 2 alternativas, una utilizando Docker y otra instalando todos los componentes necesarios sobre la máquina host.
 
