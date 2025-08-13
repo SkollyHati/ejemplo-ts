@@ -45,14 +45,6 @@ Desde una terminal, ingresar al directorio de trabajo creado y ejecutar el sigui
 # comando que permite instalar los paquetes especificados en el archivo package.json
 user@host:~$ npm i
 ```
-## Correr proyecto sin compilar
-
-Desde una terminal, ingresar al directorio de trabajo creado y ejecutar el siguiente comando: 
-
-```bash
-# comando que permite compilar la solución.
-user@host:~$ npm start
-```
 
 ## Compilar el proyecto
 
@@ -61,6 +53,15 @@ Desde una terminal, ingresar al directorio de trabajo creado y ejecutar el sigui
 ```bash
 # comando que permite compilar la solución.
 user@host:~$ npm run build
+```
+
+## Correr proyecto post compilación
+
+Desde una terminal, ingresar al directorio de trabajo creado y ejecutar el siguiente comando: 
+
+```bash
+# comando que permite compilar la solución.
+user@host:~$ npm start
 ```
 
 ## Configurar VisualCode (IDE)
